@@ -220,7 +220,7 @@
         {
           "title": "Buchhandels-API",
           "description": "Ein Backend-Projekt zur Entwicklung einer RESTful API für die Verwaltung eines Online-Buchhandelssystems auf Basis von Spring Boot und PostgreSQL.",
-          "imageUrl": "/images/projects/book_store_diagram.svg",
+          "imageUrl": "/images/projects/book_store.webp",
           "srcUrl": "https://github.com/gymofjava/book-store",
           "startDate": "2022-05-13",
           "endDate": "2022-09-08",

@@ -110,21 +110,42 @@
   ],
   "projects": [
     {
+      "title": "AI & DS",
+      "list": [
+        {
+          "title": "AI and Data Science",
+          "description": "This repository contains beginner-friendly and fun projects in Artificial Intelligence and Data Science. It showcases my explorations into AI, machine learning, and data analysis, serving as a playground for learning, experimentation, and gradually building more advanced skills.",
+          "imageUrl": "/images/projects/ai_repository.webp",
+          "srcUrl": "https://github.com/gymofjava/ai-and-data-science",
+          "startDate": "2025-08-28",
+          "tags": [
+            "Python",
+            "Data Analysis",
+            "Data Science",
+            "Machine Learning",
+            "..."
+          ]
+        }
+      ]
+    },
+    {
       "title": "Web Apps",
       "list": [
         {
-          "title": "Event Schedule System",
-          "description": "I developed a full-stack project displaying the event schedule of the Institute for Advanced Studies in Basic Sciences, allowing users to view programs by different halls. The backend was integrated with the institute’s Phoenix system, providing seamless data management.",
-          "imageUrl": "/images/projects/conference_schedule.webp",
-          "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
-          "startDate": "2023-07-08",
-          "endDate": "2023-09-20",
+          "title": "SecureGate",
+          "description": "A secure microservices system built with Spring Boot and Spring Cloud Gateway. It integrates JWT-based authentication, RBAC authorization, centralized logging, and formal verification using Alloy. The architecture ensures that unauthorized requests cannot reach protected services.",
+          "imageUrl": "/images/projects/secure_gate.webp",
+          "srcUrl": "https://github.com/gymofjava/secure-gate",
+          "startDate": "2025-11-03",
+          "endDate": "2026-01-24",
           "tags": [
-            "PHP",
-            "Codeigniter",
-            "JavaScript",
-            "MySQL",
-            "Authentication"
+            "Spring Boot",
+            "Spring Cloud",
+            "WebFlux",
+            "Docker",
+            "JWT-style RBAC",
+            "Alloy",
+            "..."
           ]
         },
         {
@@ -140,6 +161,21 @@
             "JavaScript",
             "MySQL",
             "TailwindCSS"
+          ]
+        },
+        {
+          "title": "Event Schedule System",
+          "description": "I developed a full-stack project displaying the event schedule of the Institute for Advanced Studies in Basic Sciences, allowing users to view programs by different halls. The backend was integrated with the institute’s Phoenix system, providing seamless data management.",
+          "imageUrl": "/images/projects/conference_schedule.webp",
+          "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
+          "startDate": "2023-07-08",
+          "endDate": "2023-09-20",
+          "tags": [
+            "PHP",
+            "Codeigniter",
+            "JavaScript",
+            "MySQL",
+            "Authentication"
           ]
         },
         {
@@ -198,25 +234,6 @@
             "PostgreSQL",
             "Git",
             "Docker",
-            "..."
-          ]
-        }
-      ]
-    },
-    {
-      "title": "AI & DS",
-      "list": [
-        {
-          "title": "AI and Data Science",
-          "description": "This repository contains beginner-friendly and fun projects in Artificial Intelligence and Data Science. It showcases my explorations into AI, machine learning, and data analysis, serving as a playground for learning, experimentation, and gradually building more advanced skills.",
-          "imageUrl": "/images/projects/ai_repository.webp",
-          "srcUrl": "https://github.com/gymofjava/ai-and-data-science",
-          "startDate": "2025-08-28",
-          "tags": [
-            "Python",
-            "Data Analysis",
-            "Data Science",
-            "Machine Learning",
             "..."
           ]
         }

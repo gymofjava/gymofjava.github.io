@@ -110,20 +110,42 @@
   ],
   "projects": [
     {
+      "title": "AI & DS",
+      "list": [
+        {
+          "title": "Künstliche Intelligenz und Data Science",
+          "description": "Dieses Repository enthält anfängerfreundliche und unterhaltsame Projekte im Bereich der Künstlichen Intelligenz und Data Science. Es zeigt meine Erkundungen in den Bereichen KI, maschinelles Lernen und Datenanalyse und dient als Spielwiese zum Lernen, Experimentieren und zum schrittweisen Aufbau fortgeschrittener Fähigkeiten.",
+          "imageUrl": "/images/projects/ai_repository.webp",
+          "srcUrl": "https://github.com/gymofjava/ai-and-data-science",
+          "startDate": "2025-08-28",
+          "tags": [
+            "Python",
+            "Data Analysis",
+            "Data Science",
+            "Machine Learning",
+            "..."
+          ]
+        }
+      ]
+    },
+    {
       "title": "Webanwendungen",
       "list": [
         {
-          "title": "Veranstaltungsplanungsystem",
-          "description": "Ich entwickelte ein Full-Stack-Projekt, das den Veranstaltungsplan des Institute for Advanced Studies in Basic Sciences anzeigt und Nutzern ermöglicht, Programme nach verschiedenen Sälen zu sehen. Das Backend wurde ins Phoenix-System des Instituts integriert.",
-          "imageUrl": "/images/projects/conference_schedule.webp",
-          "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
-          "startDate": "2023-07-08",
-          "endDate": "2023-09-20",
+          "title": "SecureGate Projekt",
+          "description": "Ein sicheres Microservices-System, das mit Spring Boot und Spring Cloud Gateway entwickelt wurde. Es integriert JWT-basierte Authentifizierung, RBAC-Autorisierung, zentrales Logging sowie formale Verifikation mithilfe von Alloy. Die Architektur stellt sicher, dass unautorisierte Anfragen keine geschützten Services erreichen können.",
+          "imageUrl": "/images/projects/secure_gate.webp",
+          "srcUrl": "https://github.com/gymofjava/secure-gate",
+          "startDate": "2025-11-03",
+          "endDate": "2026-01-24",
           "tags": [
-            "PHP",
-            "Codeigniter",
-            "JavaScript",
-            "MySQL"
+            "Spring Boot",
+            "Spring Cloud",
+            "WebFlux",
+            "Docker",
+            "JWT-style RBAC",
+            "Alloy",
+            "..."
           ]
         },
         {
@@ -139,6 +161,20 @@
             "JavaScript",
             "MySQL",
             "TailwindCSS"
+          ]
+        },
+        {
+          "title": "Veranstaltungsplanungsystem",
+          "description": "Ich entwickelte ein Full-Stack-Projekt, das den Veranstaltungsplan des Institute for Advanced Studies in Basic Sciences anzeigt und Nutzern ermöglicht, Programme nach verschiedenen Sälen zu sehen. Das Backend wurde ins Phoenix-System des Instituts integriert.",
+          "imageUrl": "/images/projects/conference_schedule.webp",
+          "demoUrl": "https://iasbs.ac.ir/conference_schedule_table",
+          "startDate": "2023-07-08",
+          "endDate": "2023-09-20",
+          "tags": [
+            "PHP",
+            "Codeigniter",
+            "JavaScript",
+            "MySQL"
           ]
         },
         {
@@ -197,25 +233,6 @@
             "PostgreSQL",
             "Git",
             "Docker",
-            "..."
-          ]
-        }
-      ]
-    },
-    {
-      "title": "AI & DS",
-      "list": [
-        {
-          "title": "Künstliche Intelligenz und Data Science",
-          "description": "Dieses Repository enthält anfängerfreundliche und unterhaltsame Projekte im Bereich der Künstlichen Intelligenz und Data Science. Es zeigt meine Erkundungen in den Bereichen KI, maschinelles Lernen und Datenanalyse und dient als Spielwiese zum Lernen, Experimentieren und zum schrittweisen Aufbau fortgeschrittener Fähigkeiten.",
-          "imageUrl": "/images/projects/ai_repository.webp",
-          "srcUrl": "https://github.com/gymofjava/ai-and-data-science",
-          "startDate": "2025-08-28",
-          "tags": [
-            "Python",
-            "Data Analysis",
-            "Data Science",
-            "Machine Learning",
             "..."
           ]
         }

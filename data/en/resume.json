@@ -145,7 +145,7 @@
         {
           "title": "Basic Microservices Architecture",
           "description": "A hands-on educational project demonstrating the fundamentals of microservices architecture using Spring Boot and Spring Cloud. The system includes service discovery, centralized configuration, API Gateway integration, inter-service communication, and containerized deployment with Docker.",
-          "imageUrl": "https://github.com/gymofjava/microservice_architecture/raw/main/microservice_demo.png",
+          "imageUrl": "/images/projects/microservice_demo.webp",
           "srcUrl": "https://github.com/gymofjava/microservice_architecture",
           "startDate": "2021-10-27",
           "endDate": "2022-01-19",
@@ -167,7 +167,7 @@
         {
           "title": "Educational Android Projects",
           "description": "A collection of Android development projects created for learning and experimentation with modern Android technologies.",
-          "imageUrl": "https://github.com/gymofjava/android-projects/raw/main/readme/AndroidProjects.png",
+          "imageUrl": "/images/projects/android_projects.webp",
           "srcUrl": "https://github.com/gymofjava/android-projects",
           "startDate": "2022-08-18",
           "endDate": "2023-02-11",
@@ -187,7 +187,7 @@
         {
           "title": "Book Store API",
           "description": "A backend RESTful API project for managing an online bookstore system using Spring Boot and PostgreSQL.",
-          "imageUrl": "https://github.com//gymofjava/book-store/raw/main/BookStoreClass.svg",
+          "imageUrl": "/images/projects/book_store_diagram.svg",
           "srcUrl": "https://github.com/gymofjava/book-store",
           "startDate": "2022-05-13",
           "endDate": "2022-09-08",
